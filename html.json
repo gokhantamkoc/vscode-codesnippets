@@ -1,0 +1,30 @@
+{
+	/* template
+	"Print to console": {
+		"prefix": "log",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "Log output to console"
+	}
+	*/
+
+	"HTML File Starter": {
+		"prefix": "cs_html_template",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html>",
+			"\t<head>",
+			"\t\t<meta charset='utf-8'/>",
+			"\t\t<title>",
+			"\t\t\t",
+			"\t\t</title>",
+			"\t</head>",
+			"\t<body>",
+			"\t</body>",
+			"</html>"
+		],
+		"description": "HTML File Starting Code"
+	}
+}
